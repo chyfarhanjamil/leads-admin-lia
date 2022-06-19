@@ -1,0 +1,15 @@
+.nav {
+  max-width: 400px;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  padding: 8px;
+  padding-top: 30px;
+  background-color: #353a40;
+}
+/* .nav img {
+  display: block;
+  max-width: 90%;
+  cursor: pointer;
+  padding-left: 2px;
+} */
